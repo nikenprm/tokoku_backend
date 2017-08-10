@@ -1,0 +1,20 @@
+{
+    "db": {
+    "type": "postgres",
+    "host": "localhost",
+    "port": "5432",
+    "user": "postgres",
+    "pass": "",
+    "name": "tokokuDB"
+  },
+  "walmart": {
+    "api_key": "4udnq5hf8yttv6m8zjhnk4sa",
+    "url": "http://api.walmartlabs.com/v1"
+  },
+  "email": {
+    "username": "nikenpramadhantie1@gmail.com",
+    "password": "Nikenprm0612",
+    "email_server": "smtp.gmail.com",
+    "port": "587"
+  }
+}
